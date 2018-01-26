@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ContProv</string>
+    <string name="isbn">ISBN</string>
+    <string name="title">title</string>
+    <string name="add_title">Add title</string>
+    <string name="retrieve_titles">Retrieve titles</string>
+    <string name="starts_with_b_l">Starts with B/L</string>
+    <string name="delete_with_given_isbn">Delete with given ISBN</string>
+</resources>
